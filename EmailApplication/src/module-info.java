@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author draks
+ *
+ */
+module EmailApplication {
+}
